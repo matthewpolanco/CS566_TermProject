@@ -12,3 +12,6 @@ Week 4: Shortest Path
 
 Application: Commute Optimizer: 3)	Optimal route for common destination such as office with a stop included
 
+Week 5: Dynamic Programming
+
+Application: Commute Optimizer: 4)	Maximize the number of activities that can be accomplished in a given time frame
