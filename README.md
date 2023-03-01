@@ -14,4 +14,8 @@ Application: Commute Optimizer: 3)	Optimal route for common destination such as 
 
 Week 5: Dynamic Programming
 
-Application: Commute Optimizer: 4)	Maximize the number of activities that can be accomplished in a given time frame
+Application: Calender Maximizer: 4)	Maximize the number of activities that can be accomplished in a given time frame
+
+Week 6: Greedy
+
+Application: Luggage Minimizer: 5)	Minimize number of bags/luggage needed to pack all items with respective weights without going over capacity
